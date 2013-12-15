@@ -2,7 +2,8 @@
   "name": "accounts",
   "version": "0.1.0",
   "dependencies": {
-    "optimist": "*"
+    "optimist": "0.6.x",
+    "underscore": "1.5.x"
   }
 }
 
