@@ -22,8 +22,7 @@
     "graph"
   ],
   "dependencies": {
-    "optimist": "~0.6.0",
-    "underscore": "~1.5.2"
+    "optimist": "~0.6.0"
   }
 }
 
